@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971454449351",
+    "project_id": "vidya-e8b69",
+    "storage_bucket": "vidya-e8b69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971454449351:android:5a9989c88755adfa6760e2",
+        "android_client_info": {
+          "package_name": "com.example.vidyavahini1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9yX1F62R5Dw1uhWTib8oXhMqRcu2sVOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
